@@ -1,0 +1,69 @@
+[
+
+    {
+        "type": "quiz",
+        "title": "JavaScript Quiz",
+        "description": "Test your knowledge of JavaScript with this quiz.",
+        "questions": [
+            {
+                "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+                "options": [
+                    "<script href='script.js'>",
+                    "<script name='script.js'>",
+                    "<script src='script.js'>",
+                    "<script file='script.js'>"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How do you create a function in JavaScript?",
+                "options": [
+                    "function myFunction()",
+                    "function:myFunction()",
+                    "create myFunction()",
+                    "function = myFunction()"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which operator is used to assign a value to a variable?",
+                "options": [
+                    "=",
+                    "-",
+                    "*",
+                    "/"
+                ],
+                "answer": 0
+            }
+            ,    {
+                "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+                "options": [
+                    "<script href='script.js'>",
+                    "<script name='script.js'>",
+                    "<script src='script.js'>",
+                    "<script file='script.js'>"
+                ],
+                "answer": 2
+            },
+            {
+                "question": "How do you create a function in JavaScript?",
+                "options": [
+                    "function myFunction()",
+                    "function:myFunction()",
+                    "create myFunction()",
+                    "function = myFunction()"
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Which operator is used to assign a value to a variable?",
+                "options": [
+                    "=",
+                    "-",
+                    "*",
+                    "/"
+                ]
+            }
+        ]
+    }
+]

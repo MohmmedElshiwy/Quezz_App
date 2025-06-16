@@ -1,0 +1,35 @@
+.x:not(:last-child){
+    border-bottom: solid 1px #e0e0e0;
+
+}
+.answer{
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.x{
+    padding: 5px 0 10px 20px;
+    margin-bottom: 10px;
+ 
+}
+.x input[type="radio"]:checked + label {
+color: #0075ff ;
+}
+.x input[type="radio"] ,label{
+    cursor: pointer;
+} 
+.bullets{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+.bullets span{
+width:20px;
+height: 20px;
+background: rgba(177, 177, 177, 0.267);
+ border-radius: 50%;
+}
+.bullets span.active{
+    background: #0075ff;
+}
